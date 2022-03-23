@@ -1,9 +1,9 @@
 # Data-Science-Interview
-**Blackstraw DataScience Interview 
+# Blackstraw DataScience Interview 
 
 # Technical Questions?
 ## Approaches for imbalanced Datasets? 
-## Your preprocessing and inferencing takes 6mins in production, the MLOPS teams asks for suggestion to make it realtime.
+## Your preprocessing and inferencing takes 6mins in production, the MLOPS teams asks for suggestion to make it realtime. What do you suggest? 
 ## What is recall, precision? When to prioritize recall? 
 ## When to use F1 score?
 ## When not to use accuracy? 
